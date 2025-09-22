@@ -8,7 +8,6 @@ operations=["+","-","*","/","//","%","**",">","<",">=","<=","==","!="]
 if oper not in operations:
     print( "Неверное действие")
     
-
 func = False
 if secondnumber == 0:
     func = True
